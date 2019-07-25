@@ -1,0 +1,20 @@
+I found that with latest windows updates tool does not work as expected.
+
+If this is your case, you can try downloading  VirtualDesktopAccessor.dll  from here  --->
+    
+    https://github.com/Ciantic/VirtualDesktopAccessor/tree/master/x64/Release
+    
+
+Instruction:
+1. download dll from the link above 
+2. exit from virtual-desktop-enhancer tool
+3. Delete old virtual-desktop-accessor.dll from libraries/ folder 
+4. copy downloaded file there 
+5. start VDE too
+6. Enjoy
+
+
+for repair hing thanks and credits to Konstantin Kushnir 
+
+
+philip 
